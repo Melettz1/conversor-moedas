@@ -1,6 +1,9 @@
 # Conversor de Moedas
 
-Este projeto é um conversor de moedas simples construído com HTML, CSS e JavaScript puro. Ele consulta cotações reais usando a API Frankfurter (sem necessidade de chave).
+Este projeto é um conversor de moedas simples construído com HTML, CSS e JavaScript puro. Ele consulta cotações reais usando a API Frankfurter.
+
+<img width="745" height="710" alt="image" src="https://github.com/user-attachments/assets/080f1855-9b4b-4345-bcc5-b1ebd1cee1e2" />
+
 
 ## Estrutura
 - `index.html` — interface do usuário
