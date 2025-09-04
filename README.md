@@ -27,4 +27,8 @@ O projeto usa `https://api.frankfurter.dev/v1` para:
 - `/currencies` — lista de códigos e nomes de moedas.
 - `/latest?base=FROM&symbols=TO` — taxa mais recente entre moedas.
 
-https://github.com/Melettz1
+## GItHub
+- *https://github.com/Melettz1*
+
+## Acesse o Conversor de Moedas
+- *https://conversor-moedas-js-phi.vercel.app/*
